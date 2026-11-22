@@ -2,7 +2,7 @@ cff-version: 1.2.0
 type: dataset
 title: '誤人齋醫案流水賬（柏林 Slg. Unschuld 8790） / Wu ren zhai yi an liu shui zhang [A day-to-day
   ledger of medical cases from Wuren Studio]: Transcription Dataset'
-version: 0.1.0
+version: 0.2.0
 message: Please cite this dataset version and source copy.
 authors:
 - family-names: Chu

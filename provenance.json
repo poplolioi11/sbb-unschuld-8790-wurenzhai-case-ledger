@@ -3,7 +3,7 @@
   "image_viewer": "https://content.staatsbibliothek-berlin.de/dc/1858908833/manifest",
   "source_rights": "https://creativecommons.org/publicdomain/mark/1.0/",
   "shelfmark": "Slg. Unschuld 8790",
-  "data_version": "0.1.0",
+  "data_version": "0.2.0",
   "image_inventory": [
     {
       "image": 1,
@@ -78,10 +78,11 @@
         },
         {
           "unit_id": "f005-A-05",
-          "offset_start": 12,
-          "offset_end": 17,
           "recorded_reading": "〔字待核〕",
-          "resolution": "unresolved"
+          "resolution": "image-reviewed",
+          "initial_offset_start": 12,
+          "initial_offset_end": 17,
+          "reviewed_reading": "川獨活　秦艽　廣木香　製香附"
         },
         {
           "unit_id": "f005-A-05",
@@ -6751,10 +6752,11 @@
       "uncertainty": [
         {
           "unit_id": "f089-A-02",
-          "offset_start": 3,
-          "offset_end": 7,
           "recorded_reading": "〔候讀〕",
-          "resolution": "unresolved"
+          "resolution": "image-reviewed",
+          "initial_offset_start": 3,
+          "initial_offset_end": 7,
+          "reviewed_reading": "劉映〔珍？〕"
         },
         {
           "unit_id": "f089-A-02",
@@ -6928,6 +6930,13 @@
         {
           "unit_id": "f089-F-05",
           "note": "細量及連筆待另核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f089-A-02",
+          "offset_start": 2,
+          "offset_end": 6,
+          "recorded_reading": "〔珍？〕",
           "resolution": "unresolved"
         }
       ]

@@ -7,10 +7,10 @@
     "source": "https://resolver.staatsbibliothek-berlin.de/SBB0003530700000000",
     "manifest": "https://content.staatsbibliothek-berlin.de/dc/1858908833/manifest",
     "language": "lzh",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "date": "2026-11-22",
-    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
-    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "quality_zh": "逐幅核對原圖與欄序，覆看封籤、跨幅日期、朱記與書緣，附 2 筆訂正和待辨定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "The review checks each scan’s layout and selected readings at folio boundaries, and adds 2 documented revisions and unresolved locations. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -303,7 +303,7 @@
                 250,
                 1969
               ],
-              "text": "川獨活　秦艽　廣木瓜　製〔字待核〕附",
+              "text": "川獨活　秦艽　廣木香　製香附",
               "reading_note": "末藥序待核。"
             },
             {
@@ -627,10 +627,11 @@
         },
         {
           "unit_id": "f005-A-05",
-          "offset_start": 12,
-          "offset_end": 17,
           "recorded_reading": "〔字待核〕",
-          "resolution": "unresolved"
+          "resolution": "image-reviewed",
+          "initial_offset_start": 12,
+          "initial_offset_end": 17,
+          "reviewed_reading": "川獨活　秦艽　廣木香　製香附"
         },
         {
           "unit_id": "f005-A-05",
@@ -36333,7 +36334,7 @@
                 306,
                 843
               ],
-              "text": "劉映珍〔候讀〕",
+              "text": "劉映〔珍？〕",
               "reading_note": "細量及連筆待另核。"
             },
             {
@@ -36671,10 +36672,11 @@
       "uncertainty": [
         {
           "unit_id": "f089-A-02",
-          "offset_start": 3,
-          "offset_end": 7,
           "recorded_reading": "〔候讀〕",
-          "resolution": "unresolved"
+          "resolution": "image-reviewed",
+          "initial_offset_start": 3,
+          "initial_offset_end": 7,
+          "reviewed_reading": "劉映〔珍？〕"
         },
         {
           "unit_id": "f089-A-02",
@@ -36848,6 +36850,13 @@
         {
           "unit_id": "f089-F-05",
           "note": "細量及連筆待另核。",
+          "resolution": "unresolved"
+        },
+        {
+          "unit_id": "f089-A-02",
+          "offset_start": 2,
+          "offset_end": 6,
+          "recorded_reading": "〔珍？〕",
           "resolution": "unresolved"
         }
       ]
@@ -87703,7 +87712,9 @@
     "visual_dispensing": 3,
     "visual_formula_column": 7,
     "visual_digitization_target": 1,
-    "frame_type_色卡重攝": 1
+    "frame_type_色卡重攝": 1,
+    "reviewed_image_frames": 199,
+    "columns_with_inline_uncertainty": 137
   },
   "source_reference": {
     "catalogue": "https://resolver.staatsbibliothek-berlin.de/SBB0003530700000000",

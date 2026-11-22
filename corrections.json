@@ -1,0 +1,1368 @@
+{
+  "initial_sha256": "b8bac818a80975f80059ac80a6e97e26edde60c4249dc0d7d454ee7458ee510d",
+  "frames_reviewed": [
+    {
+      "frame": 1,
+      "image_sha256": "44ac33b30092d6a3593737c02e4e3c3a12d7f46ef77c3b4c2e159e397c9aedb1",
+      "layout": "封面"
+    },
+    {
+      "frame": 2,
+      "image_sha256": "c758ef64fbbb12313e3b044c6adede03ef0fb6fcd3b2b49d9b2e575a0a7ed019",
+      "layout": "封裡"
+    },
+    {
+      "frame": 3,
+      "image_sha256": "141d8e6cbdf65059c09cbd873cf4af6f6f8fae1b012d107ca726f625c59461e7",
+      "layout": "護葉"
+    },
+    {
+      "frame": 4,
+      "image_sha256": "4d5d72497eafdacd64c42fe1f778a42a71da3f49dadd01018ecdae223f7a6df4",
+      "layout": "護葉"
+    },
+    {
+      "frame": 5,
+      "image_sha256": "338eb536d62eaa7508922652552d654bda821a197247591c18fb33d13b9c9744",
+      "layout": "正文"
+    },
+    {
+      "frame": 6,
+      "image_sha256": "650956dc79bb520ed70363c0a1c1a4f72d8914724afaa60f3b3579cf99514dc8",
+      "layout": "正文"
+    },
+    {
+      "frame": 7,
+      "image_sha256": "c9a2c785215d33730b91197aa124190878a3918dfa9eb7ef9bc6a69d74160f93",
+      "layout": "正文"
+    },
+    {
+      "frame": 8,
+      "image_sha256": "d2c7db680276d3664f7aaf49a12e047e10eb701ddf7365b5ccd0abded951e59e",
+      "layout": "正文"
+    },
+    {
+      "frame": 9,
+      "image_sha256": "fbfc1fd44c1c0fe305f7824f1639533771695de6e7ec4a642fcca192ce693c49",
+      "layout": "正文"
+    },
+    {
+      "frame": 10,
+      "image_sha256": "bfd2ef7a3df1a682169d64e512a93dcce052dde4460a2be85ddcfa65ea2f6cef",
+      "layout": "正文"
+    },
+    {
+      "frame": 11,
+      "image_sha256": "48df49b33f23a6438a5d6e24e3442429934cbeae24be646fa7dddc838bb91fb7",
+      "layout": "正文"
+    },
+    {
+      "frame": 12,
+      "image_sha256": "ab8be9258f9fbcb77a719a75a15ce3bb266963fac5a59f441e0a2628a0be3376",
+      "layout": "正文"
+    },
+    {
+      "frame": 13,
+      "image_sha256": "d08196ae83c6bafdd4690f0dfbb6741fe6383a6822c5cb9e7d2f43a6f16450e1",
+      "layout": "正文"
+    },
+    {
+      "frame": 14,
+      "image_sha256": "b0cfafb3d189fdacc50b07ae271f0197dcf624baa57905059d071c349874c494",
+      "layout": "正文"
+    },
+    {
+      "frame": 15,
+      "image_sha256": "2249e08a06b82ba876711e6f72ac284d3c9c80b4399f811ac50663e65db2cd9b",
+      "layout": "正文"
+    },
+    {
+      "frame": 16,
+      "image_sha256": "b088ae51a4b2ccf4461689611948d89d39c269a01f4dcf38851358a8db6e47c0",
+      "layout": "正文"
+    },
+    {
+      "frame": 17,
+      "image_sha256": "3a9251dcbd66f9ec0f98fd133d4419ac63c8f4d3a3a034e6b832ce92b86da63d",
+      "layout": "正文"
+    },
+    {
+      "frame": 18,
+      "image_sha256": "b204301f31da724fe09c5b280f067d55a2cfa10d0c8083180fbc68e0cf59bca7",
+      "layout": "正文"
+    },
+    {
+      "frame": 19,
+      "image_sha256": "3a97a19c8d055455acd2651c4763b9d2b4db379aaa847571f1d8918e833de565",
+      "layout": "正文"
+    },
+    {
+      "frame": 20,
+      "image_sha256": "701ce2a2861b23c242ace0894148de0eaadedba78b477b1a558d2552d40602a1",
+      "layout": "正文"
+    },
+    {
+      "frame": 21,
+      "image_sha256": "267669b20a9fdf2a1f38f4c43321fa37b58339b0bff23bca03ecea9843f2a03e",
+      "layout": "正文與帳記"
+    },
+    {
+      "frame": 22,
+      "image_sha256": "0442949f8091417bbb31468dc48b0cb098c45d8c278c6ebae03192e0d7a80ce1",
+      "layout": "正文與帳記"
+    },
+    {
+      "frame": 23,
+      "image_sha256": "52ba1204809febbad5f0b8bb712c303c4fcc06f434617d6a977b29ff39a5655b",
+      "layout": "正文"
+    },
+    {
+      "frame": 24,
+      "image_sha256": "d339d752095c5e75d0f5d2fc7099f7a5310376bae56ff9c0dfd9d102bf255312",
+      "layout": "正文"
+    },
+    {
+      "frame": 25,
+      "image_sha256": "89d9685c917b3c8767b844aecc38188d390cecaed8cb710c7dcb62237cf69848",
+      "layout": "正文"
+    },
+    {
+      "frame": 26,
+      "image_sha256": "07fc7ba9f79836e0975b4f619ce66de724e12738b027d2c671fcea8a3a5c35d2",
+      "layout": "正文"
+    },
+    {
+      "frame": 27,
+      "image_sha256": "dd2e77fb6d45de70a424cd9ab89d6af5e371069542709102061fd35a7eb8431e",
+      "layout": "正文與帳記"
+    },
+    {
+      "frame": 28,
+      "image_sha256": "008ba4f836c8ae083b590765d07cbcffe15ce4ea31aa3048b884d9988aa2da33",
+      "layout": "正文與帳記"
+    },
+    {
+      "frame": 29,
+      "image_sha256": "c2ead9459e709bb055a0679655d56796067e8abc0c3ea2e2f65420c67a3eebe7",
+      "layout": "正文"
+    },
+    {
+      "frame": 30,
+      "image_sha256": "09f8d9dd5bfaff272bfd2d9eb38279b889cd5262e162edb27a23eebd26d40019",
+      "layout": "正文"
+    },
+    {
+      "frame": 31,
+      "image_sha256": "234c00e9fe82d19df45a389680df67b546f92331945b136b2b7c7d0f57970d42",
+      "layout": "正文與帳記"
+    },
+    {
+      "frame": 32,
+      "image_sha256": "a4d6f9a3f9ca3bc78a9c5c0e68238b1172dde4f78452a588ec550545918bc323",
+      "layout": "正文"
+    },
+    {
+      "frame": 33,
+      "image_sha256": "ed749dced943431cef7e1a385e2597e1a0ed32f2cf4717bf125a932c630fea17",
+      "layout": "正文"
+    },
+    {
+      "frame": 34,
+      "image_sha256": "a0613a5d4d4854efcb9beef98da5a833e77544210f9646ab543783c25d1d75c7",
+      "layout": "正文"
+    },
+    {
+      "frame": 35,
+      "image_sha256": "16a3363eada9ad9388777f6d16e23e83711175b3a397c77e09a5533fcdecebbf",
+      "layout": "正文"
+    },
+    {
+      "frame": 36,
+      "image_sha256": "02f5bb305688682276b66f798b3abc15273d1df9a17e58b0d00db7adc5eef567",
+      "layout": "正文"
+    },
+    {
+      "frame": 37,
+      "image_sha256": "e92a59211b1f89aabe0d5a7df872905e22f7c77bc5c9f2413d88647903145fdc",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 38,
+      "image_sha256": "d84aa1da215bd991969a854da7c60b8a791701a0152dadffea2424afa4a4a74f",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 39,
+      "image_sha256": "8bd169d58710bb289d44def4cb4be18e6a0f97f5a10b496d9033c4afce1fea7d",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 40,
+      "image_sha256": "32bd301b8866eb57b0cdf4b232a9ca3a33f70d0a0f086fc2c5a92cc94a49591c",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 41,
+      "image_sha256": "efee2d18e2b961f06bb30deb64768b34888233d07d5b8ea14da212cd918c9707",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 42,
+      "image_sha256": "c02df772cfda4d8bc3c3c5dde1cec2f1e6b9a2f90ab1ef9b682cd16c9f2d24ed",
+      "layout": "帳務"
+    },
+    {
+      "frame": 43,
+      "image_sha256": "f1aaefa1c60440ecf5bbeed0ebe2da223956a3c00a0463795edec14754d28251",
+      "layout": "空面"
+    },
+    {
+      "frame": 44,
+      "image_sha256": "c4d09f8fc54f5816801e93e60020f186e345f2c7af9bf6b33da74e90695e8bf6",
+      "layout": "空面"
+    },
+    {
+      "frame": 45,
+      "image_sha256": "a77d062b289bdaea81378b58e65ade67a4e30725384e027113eb21a3fc2de6c5",
+      "layout": "空面"
+    },
+    {
+      "frame": 46,
+      "image_sha256": "05fdb5991c73f159375d45b5b6f6bd356f91c41eb2729fbf674a5208710f1344",
+      "layout": "空面"
+    },
+    {
+      "frame": 47,
+      "image_sha256": "85a5f6c872c02d3de3ec8e2879362a5753abe60dbc081df14c220a330509e36a",
+      "layout": "正文"
+    },
+    {
+      "frame": 48,
+      "image_sha256": "ea3a04e0b620e95470c137c9543c742419311360c62b10c03a743a73624827e7",
+      "layout": "正文"
+    },
+    {
+      "frame": 49,
+      "image_sha256": "44944cb63fa2dcd5147dfe91d4be11deb23952a605dcda54005274e138779c0c",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 50,
+      "image_sha256": "7f8ba3be1dcf9743176eec15188a4015ab3a4d5fcabc7c881704d486dae554c7",
+      "layout": "正文"
+    },
+    {
+      "frame": 51,
+      "image_sha256": "43dde12d44f776807d5252bac010b705a3ac1af62cf13f9855e84c9696d15cc0",
+      "layout": "正文"
+    },
+    {
+      "frame": 52,
+      "image_sha256": "2003acde9ae195486c01c330383afecc3417f5839eeeb40511d25ddec6a34d36",
+      "layout": "正文"
+    },
+    {
+      "frame": 53,
+      "image_sha256": "3a2ec14fc5e842bdc517734ba9a26bf8a4ede7b5a3426fbc3fe87a700330676d",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 54,
+      "image_sha256": "1580cb455046d0085370392652e7796a99cb88a79e0f6d7c123bde80c76460d6",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 55,
+      "image_sha256": "4ce9660bb7d47b01e6dd3533c9b90a4c58bdc534065df2050e2e85d580505132",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 56,
+      "image_sha256": "af4dddfc9a22cb5aaeba62f1dbe96cd41ef1500c041a4ee99050759e71d1e847",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 57,
+      "image_sha256": "d13b6cc43985fcbc8a883dc4bf1bffc49764b5b0aab937a055d15eb86bf454c2",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 58,
+      "image_sha256": "3f2e58ee47ad7c0d00ed531136f13898b8c9351b81010f2c276ca3efd8488987",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 59,
+      "image_sha256": "08705fbbcf3ee2b7e99fb59ec8b059e786ba6bdeff903d9ea506a6f55a0a8e44",
+      "layout": "正文"
+    },
+    {
+      "frame": 60,
+      "image_sha256": "ea9fa13525985ac94939866f016817aea97d3041069a04728f52c14f23763e18",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 61,
+      "image_sha256": "91652fa1802665821700ca53c82db71be2281b68d53dbe4aadd3b3d40a118d55",
+      "layout": "正文"
+    },
+    {
+      "frame": 62,
+      "image_sha256": "552ea3513d1ec349237c1f8cbea84f3301080a59846dde26d98d8be43482a224",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 63,
+      "image_sha256": "e9555080e0f74082b989766fc17f4a9f36036dc03ad917a2e74d424b805e9e1a",
+      "layout": "正文"
+    },
+    {
+      "frame": 64,
+      "image_sha256": "9bc08bb71d9ae3ccdb90d8b9c95829c03c6d0cec0269e0d008935783b42c9171",
+      "layout": "正文"
+    },
+    {
+      "frame": 65,
+      "image_sha256": "a41e9724d255732e3a179ae93a3253201a1fad530335ac2cc2b1cd5639aca457",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 66,
+      "image_sha256": "50141f3d7d356a028285ce13c7d15dabc5907fc2d36c8b2abeaab359f0276004",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 67,
+      "image_sha256": "ea5b40ce1584e21aa1aecec0b286e1cdbae2ece0a18568fd5926cc92b3aec4b9",
+      "layout": "正文"
+    },
+    {
+      "frame": 68,
+      "image_sha256": "24b13b640c940e60d68de90b7afacbe00a94861f8a2a4802d03ef32ddaeb5c04",
+      "layout": "正文"
+    },
+    {
+      "frame": 69,
+      "image_sha256": "511265c159e9edd91d69d0e5886aea63e76022468c770cf84a32d5c4dc799d4a",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 70,
+      "image_sha256": "f2983053c319ff774d46d9cef7f8cbec9433e73a49d2d60889a0cb10be386f7b",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 71,
+      "image_sha256": "8a976fd5789583238b935bf653b0c0d439ff0797c46f137f57c4fd5f8ab8148d",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 72,
+      "image_sha256": "5bfc4dce7320733209f9191f1bb383c21355432237addbcdb26ab736eaedc1c4",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 73,
+      "image_sha256": "621aea8ff7d4a237a211a58bf2517f086346ae988a71543f33f4ca0584c898ad",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 74,
+      "image_sha256": "9ab0cd1f523d394c9d3a8222ec126765d3108874318eb477f90f3206fefa29eb",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 75,
+      "image_sha256": "8b27f5d86deff87864cfea94a1f5275250cd5f7a31243246214705a83c5055e0",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 76,
+      "image_sha256": "00d48bdcad26d2d4f7a1991d19d09f0b88d569ce3eb628bf8fdce6aee8972cf7",
+      "layout": "正文"
+    },
+    {
+      "frame": 77,
+      "image_sha256": "1eb907dc344c8e883cafb23531ab76ed6910a7ad68eaba8bc75654c95d71ffc0",
+      "layout": "正文"
+    },
+    {
+      "frame": 78,
+      "image_sha256": "6ffbd2fbfc6b7eb6afe1e2bbd8b43979878d3b77909d23a2c4e1dd23e2109609",
+      "layout": "正文"
+    },
+    {
+      "frame": 79,
+      "image_sha256": "6c79a0a8210153d1bdf0f49eb46337e227cc3ac750406e5cd7377915cfd1196f",
+      "layout": "正文"
+    },
+    {
+      "frame": 80,
+      "image_sha256": "641a9e721ff8de4770d6884a5edd10181f9c0074a4ccfeb49c38f91ed1281784",
+      "layout": "正文"
+    },
+    {
+      "frame": 81,
+      "image_sha256": "84713e214de5cd23acbea178549b8eb8f278469568fc6124e1db94ff3fce0aeb",
+      "layout": "正文"
+    },
+    {
+      "frame": 82,
+      "image_sha256": "bf39e8d57797c4f7e5f846548608ee9082bf1930b63b038a2df7e587870de6b3",
+      "layout": "正文"
+    },
+    {
+      "frame": 83,
+      "image_sha256": "a38fbe4736069de166e5524733e8454717fcffcada7afbf67d0346f41e507782",
+      "layout": "正文"
+    },
+    {
+      "frame": 84,
+      "image_sha256": "267712e895bd859f16c1526a2bee6528864f3707f8771551addfb6fd14296761",
+      "layout": "正文"
+    },
+    {
+      "frame": 85,
+      "image_sha256": "18cf5d6f61d93f03003b66caa10413c94d9d52d66973f880fa1567fab4cf6a43",
+      "layout": "正文"
+    },
+    {
+      "frame": 86,
+      "image_sha256": "f9469cad864ef39f03dc5028c7d17ee69f9b19d9867ee5dbae70e5fda96a038e",
+      "layout": "正文"
+    },
+    {
+      "frame": 87,
+      "image_sha256": "7f9c68e7a81056191f44a3e500d60600e577eeeebdba6c15d5d50e43330bf445",
+      "layout": "正文"
+    },
+    {
+      "frame": 88,
+      "image_sha256": "429b083876d25ef7aac79a648baa90d6052ed143974e99fc0214616c4429026d",
+      "layout": "留白"
+    },
+    {
+      "frame": 89,
+      "image_sha256": "ed249a536ba3b3af9c31e0244a49b4aa887fc9674ed8493b235f1e78472fafa0",
+      "layout": "正文"
+    },
+    {
+      "frame": 90,
+      "image_sha256": "86d2344863e9e563f54a2731237ce35da0d5e5062958e36a20cb5d12de6fdc56",
+      "layout": "正文"
+    },
+    {
+      "frame": 91,
+      "image_sha256": "057497c62fec8e983aeabdb9633375864dd778eb72ea0bd7163a6bda71b0405f",
+      "layout": "正文"
+    },
+    {
+      "frame": 92,
+      "image_sha256": "a8f036c79dadf5778718f47415dafd451084f70b403b3c4bdffd5261d4f12771",
+      "layout": "正文"
+    },
+    {
+      "frame": 93,
+      "image_sha256": "1faaf9b0d0a0de6f91650cc071eb59e16e07bd9fafb951f12a75b31801c40eef",
+      "layout": "正文"
+    },
+    {
+      "frame": 94,
+      "image_sha256": "c3d3880698bd8b58b4cf90406f2d2d257932ab5629d71cee6f508053e2996612",
+      "layout": "正文"
+    },
+    {
+      "frame": 95,
+      "image_sha256": "09b9da4f890e102ad97e0b07950d9678e8d8a3703aa3ff61b32003df15ea8e1c",
+      "layout": "正文"
+    },
+    {
+      "frame": 96,
+      "image_sha256": "4dc47584d93a07c4a2bcc9d0738f6021c1e42550876df40b8d0ef9e133125cab",
+      "layout": "正文"
+    },
+    {
+      "frame": 97,
+      "image_sha256": "c7db17cbf122734f8c4f8425cfa64e29b8faebc4594f2fc98e2c096e111a4028",
+      "layout": "正文"
+    },
+    {
+      "frame": 98,
+      "image_sha256": "3db1b5763b1a71ddfbf90bba0f083f9704dae04d87e11836d8ceb726d67d11c8",
+      "layout": "正文"
+    },
+    {
+      "frame": 99,
+      "image_sha256": "4d9b85f9fa5179ef91e387f18d4280d54ac99c55fa2c4ade7f236f07a18c7ee9",
+      "layout": "正文"
+    },
+    {
+      "frame": 100,
+      "image_sha256": "f8eac5f8651df19de7c7b3a0c71471ef62bab8fcae07df9ea8297225b2d8e485",
+      "layout": "正文"
+    },
+    {
+      "frame": 101,
+      "image_sha256": "565fef2a14831b33e345eb9182c9e1b7675ccb02a3c578ab2de63d32f2607ff3",
+      "layout": "正文"
+    },
+    {
+      "frame": 102,
+      "image_sha256": "edfb9dbbcd69cd3edccc4c39702185df93da4785fee739b09986658b2d22cb35",
+      "layout": "正文"
+    },
+    {
+      "frame": 103,
+      "image_sha256": "8a1489ae6b13ec8b79dab5ce2f174184120a5cba49a8f5125ad7ac2abf05037e",
+      "layout": "正文"
+    },
+    {
+      "frame": 104,
+      "image_sha256": "5ef7727bcce4a8632598d2cea0323c9173ffdbff97de871587ce6a6a8370ee69",
+      "layout": "正文"
+    },
+    {
+      "frame": 105,
+      "image_sha256": "b2984551d2cae9247a1970f2dd4ad01b679f6b55c1bbff9a4316ddaaad8be311",
+      "layout": "正文"
+    },
+    {
+      "frame": 106,
+      "image_sha256": "0f3b256ce3abaf401958ba39bf691469b91e3123132b5ff84ad02e46cfa3b9f9",
+      "layout": "正文"
+    },
+    {
+      "frame": 107,
+      "image_sha256": "8524fb904afd32e2285ba4cf66e924fce65dc7e0fdbe81a03faa9fa39a582319",
+      "layout": "正文"
+    },
+    {
+      "frame": 108,
+      "image_sha256": "8443ddd3e51824407253e2e98312532944d87cf0e375515bd29fbb73ea21ca8e",
+      "layout": "正文"
+    },
+    {
+      "frame": 109,
+      "image_sha256": "fa45101a72dbe232706ad0e93adf11bfa979df63138bca35beeaae74404390f4",
+      "layout": "正文"
+    },
+    {
+      "frame": 110,
+      "image_sha256": "7a4316488815c5cba4584f184f802db1ed80ef763cf9e138b498413464499d62",
+      "layout": "正文"
+    },
+    {
+      "frame": 111,
+      "image_sha256": "34fa7dedb8ed3c5ebe1aca84093d1becc8998ef2cec6bcd2dde715c645c84366",
+      "layout": "正文"
+    },
+    {
+      "frame": 112,
+      "image_sha256": "1b696a2d85cbf366e9cfd72a7dbb7b4b420cf60cf404360f0534d9c427ecdf5a",
+      "layout": "正文"
+    },
+    {
+      "frame": 113,
+      "image_sha256": "0e430644772f8cfd80f0dbd307ffdf52b876fe889158465d59e4fff7a98d816a",
+      "layout": "正文"
+    },
+    {
+      "frame": 114,
+      "image_sha256": "a9c174f34800e492e6fcae5774f699ed81d5bfd54340fd49f7674d1d390da4ec",
+      "layout": "正文"
+    },
+    {
+      "frame": 115,
+      "image_sha256": "4efed75e82dd7f208860efb45ff33a5f1faa5a537e77c2cbc4de4b0d6a73c965",
+      "layout": "正文"
+    },
+    {
+      "frame": 116,
+      "image_sha256": "70988548c2250fa8257ce01eda6ed8e85033917a3dd08ff9bc9b227216522132",
+      "layout": "正文"
+    },
+    {
+      "frame": 117,
+      "image_sha256": "a4f3acfce7737e1744591d6e159c46ad9b0fab52c45ab06393fa74b81f2c5675",
+      "layout": "正文"
+    },
+    {
+      "frame": 118,
+      "image_sha256": "d9d62ab63e214fe606d56483472365511db5ce4b7ed18ff7a3ea54a58e5888d4",
+      "layout": "正文"
+    },
+    {
+      "frame": 119,
+      "image_sha256": "facd65fc1a217e064618821b83ceda61348956542b5bf249f9357fb67d7077cc",
+      "layout": "正文"
+    },
+    {
+      "frame": 120,
+      "image_sha256": "d4ed43687289498abaa00968c18dfb5c859ccd0c1b5964fac1c3ba8435b0110f",
+      "layout": "正文"
+    },
+    {
+      "frame": 121,
+      "image_sha256": "4036a786a05eaed29fec47e48d37a49542f9a4819222cf98116e0149d318062c",
+      "layout": "正文"
+    },
+    {
+      "frame": 122,
+      "image_sha256": "f6c4d8d660dce291fdf3e2b096f1693d6f5c4c3d3c121781c4a8bbbf87f9306f",
+      "layout": "正文"
+    },
+    {
+      "frame": 123,
+      "image_sha256": "a330fd814b20e7aa1d70af0d08dcc67e65ac5f9d60deee72e9bb30b21499db07",
+      "layout": "正文"
+    },
+    {
+      "frame": 124,
+      "image_sha256": "4756882dba1d3cb9c0414bb5ff9b64c603ed72b6ca8e7fd75e348eeade8c0f46",
+      "layout": "正文"
+    },
+    {
+      "frame": 125,
+      "image_sha256": "b1a4e46d4225199b703920b06666a25335c46d91da188e883366290e9877ee2a",
+      "layout": "正文"
+    },
+    {
+      "frame": 126,
+      "image_sha256": "c9ab04f5dcd5ddb4eef3ce42989855cbc853c6b29acb1fe0085e1663f9ed898d",
+      "layout": "正文"
+    },
+    {
+      "frame": 127,
+      "image_sha256": "d51949a7652788d61f94beef2189cd1f2e5d37e2f46bf3f0d0977d7f1379291e",
+      "layout": "正文"
+    },
+    {
+      "frame": 128,
+      "image_sha256": "8537f7dedf08deadfc16f9cda39cb147ed74759d0ffba85505c160ed097eda21",
+      "layout": "正文"
+    },
+    {
+      "frame": 129,
+      "image_sha256": "679142ddbe23c87f36be09f9cfd3aeb346112e437cd5d51475054e35ad3b0864",
+      "layout": "正文"
+    },
+    {
+      "frame": 130,
+      "image_sha256": "f85b0701a99dfaae778a5654e4596973fdd48b8902707e0bb39705990aba931d",
+      "layout": "正文"
+    },
+    {
+      "frame": 131,
+      "image_sha256": "391f3d8207755d8102d97887f3ab6ae1dd2ae20bf5373578a3b8568b1cc6a288",
+      "layout": "正文"
+    },
+    {
+      "frame": 132,
+      "image_sha256": "fe79585cd7420b54577677f2a0ceb21407632a613e63e419f2fbe956899e1c2b",
+      "layout": "正文與帳記"
+    },
+    {
+      "frame": 133,
+      "image_sha256": "dea4a86a2d2431efb787d9c7a6c74fcc0edcd3df655523b0c0500a38ce676cd9",
+      "layout": "正文與帳記"
+    },
+    {
+      "frame": 134,
+      "image_sha256": "d7d3fa1ab1dbc564f2c9527d17bd42aade3ecfe885a44641567a00ff87248762",
+      "layout": "正文與帳記"
+    },
+    {
+      "frame": 135,
+      "image_sha256": "acfc3feea9f44bc5898916e7abcc7e60a83bed25e6c35c8f0a0584d6ff276e2b",
+      "layout": "正文與帳記"
+    },
+    {
+      "frame": 136,
+      "image_sha256": "5cfa5a742b41b5477a7217239b440eb19cd75a971ee0f3041485d156f87f7428",
+      "layout": "反透頁"
+    },
+    {
+      "frame": 137,
+      "image_sha256": "f36574205edc46fbba58e9086b7c011fc028657335d9bf71248408d859fc95b9",
+      "layout": "正文"
+    },
+    {
+      "frame": 138,
+      "image_sha256": "8d6da2248918c5a95381dd14e2a48650a448a1c3cb1d9c40fe06050a86a307c3",
+      "layout": "正文"
+    },
+    {
+      "frame": 139,
+      "image_sha256": "7f027b5865fe969258e3a73ad1fc18d731514db238bfccdaae884618caff225d",
+      "layout": "正文"
+    },
+    {
+      "frame": 140,
+      "image_sha256": "74af8e3c19e2ef0decda1008939f3a6e10b835b5dc18f32666813c9c053337f4",
+      "layout": "正文"
+    },
+    {
+      "frame": 141,
+      "image_sha256": "cc16da40d9ed45b4c8c20113ef9a48e8d03388dff88c4f4d5b9959810f3ad8d5",
+      "layout": "正文"
+    },
+    {
+      "frame": 142,
+      "image_sha256": "84424ecd6f3330a4ec8de2a844eeba73a48b05204978251550fab58367232ceb",
+      "layout": "正文"
+    },
+    {
+      "frame": 143,
+      "image_sha256": "307d7c43e7eac3435a3faccfe3d0a74c6b6563d3e013ab81728957e155532be6",
+      "layout": "正文"
+    },
+    {
+      "frame": 144,
+      "image_sha256": "c889c1e3f86139dab91c3308e1abd2fe1b856fb201fcae81140478a12f415c13",
+      "layout": "正文"
+    },
+    {
+      "frame": 145,
+      "image_sha256": "40e511fbb102067f7da8f74e0172d94ba387575a44cbb8a6eb316b882ba63c14",
+      "layout": "正文"
+    },
+    {
+      "frame": 146,
+      "image_sha256": "268733aadf5ed661acb72030207de8451923fdd29e58949a483924aa3b075c97",
+      "layout": "正文"
+    },
+    {
+      "frame": 147,
+      "image_sha256": "eb206af7dddd549faf3819c4b3f962359e6ec9ec84b45fcb9bb627a6a143ebf3",
+      "layout": "正文"
+    },
+    {
+      "frame": 148,
+      "image_sha256": "d886b6182636d60524e015f50a2e101e09e68d1f22399f955d33bc0a3ee5a560",
+      "layout": "正文"
+    },
+    {
+      "frame": 149,
+      "image_sha256": "5b40fe37c312e159aad236c039d8eb6e32ab8915ae52d52cfec34841241a1f7c",
+      "layout": "正文"
+    },
+    {
+      "frame": 150,
+      "image_sha256": "bc089e3b78112470b9f70a972a7ea05ade715c6dfc56830902efddc783b1b96b",
+      "layout": "正文"
+    },
+    {
+      "frame": 151,
+      "image_sha256": "fd420c7cdc74050be76b2edb398243b8ac2c3bd53ac7e449c79cf34acf3a2f0f",
+      "layout": "正文"
+    },
+    {
+      "frame": 152,
+      "image_sha256": "f3f23834f05ad4b48d122639e8c944884160564e3204221738d7a74dd6e143b3",
+      "layout": "正文"
+    },
+    {
+      "frame": 153,
+      "image_sha256": "708f01790921bec5ab50d10d9da8fd4d81bb00e7b15e869a0a2b112b95806472",
+      "layout": "正文"
+    },
+    {
+      "frame": 154,
+      "image_sha256": "9c26ce77f485c0f2959e25b711c1fcdae5dd2ebc21fdf28d27d85ed565b6fa57",
+      "layout": "正文"
+    },
+    {
+      "frame": 155,
+      "image_sha256": "9d3ac87fd1b60d2f16cd5d94ad594522050be92cfd59043244e3edaa8f99c0e4",
+      "layout": "正文"
+    },
+    {
+      "frame": 156,
+      "image_sha256": "1eb6b91fd11ca7a4298883bdcc1c0e4058d7c97c3bafa35729f5e80f72b6bd29",
+      "layout": "正文"
+    },
+    {
+      "frame": 157,
+      "image_sha256": "45f821710ae41d64059e16ceef5dd6e185b8b2f21ef525b0db676202d4215456",
+      "layout": "正文"
+    },
+    {
+      "frame": 158,
+      "image_sha256": "cada5a1a3b750a7c771ba4a9209e5dd772d803045922496b8b87eda99755727c",
+      "layout": "正文"
+    },
+    {
+      "frame": 159,
+      "image_sha256": "e0d417a3b3c917f2191f585e3a69c05653c4dedd6e83172f8f907631ef39ca21",
+      "layout": "正文"
+    },
+    {
+      "frame": 160,
+      "image_sha256": "f619d396f8181bf92c4f779a7a3f952157312f7e419d48f87f5f1a2ae1d8b94c",
+      "layout": "正文"
+    },
+    {
+      "frame": 161,
+      "image_sha256": "6b91baa8b22f71109fc2315fd291ee267e541e795cbae3d193e1ab9bbcc0aeff",
+      "layout": "正文"
+    },
+    {
+      "frame": 162,
+      "image_sha256": "fbb6bb1f57e5f90faa50e9aa45a743384ff5614ac72699588a9f3405aab6ca10",
+      "layout": "正文"
+    },
+    {
+      "frame": 163,
+      "image_sha256": "f7bbcdc0ea7f48425c82aa490754943867e93613c7688e8282e2612c2d1debd2",
+      "layout": "正文"
+    },
+    {
+      "frame": 164,
+      "image_sha256": "04941ffad4316b32b9770a9e86d22d1b81b3e9611ff6a6a0c8ecfa5ca6bf9f2d",
+      "layout": "正文與帳記"
+    },
+    {
+      "frame": 165,
+      "image_sha256": "0388e967bd60d95b957cbae590da57798a1dcbd84a99e4f5b742903a571a5e7d",
+      "layout": "正文"
+    },
+    {
+      "frame": 166,
+      "image_sha256": "b2a76bff48c978099e5174d1cdab6674f29a61b0da2771cd68776e6cb008fc90",
+      "layout": "正文"
+    },
+    {
+      "frame": 167,
+      "image_sha256": "6b274df552d36c20b02555d4ae8643a12794d5bc20a8d7033fa1b0968c795710",
+      "layout": "正文"
+    },
+    {
+      "frame": 168,
+      "image_sha256": "626e80679ac6e4da6870e587ab88d08746440836cdf96a8fc1923df56f966960",
+      "layout": "正文"
+    },
+    {
+      "frame": 169,
+      "image_sha256": "5b5265d475adbc2edb2242dba64c343fd8b5f697d24407af29d2580856d9fa98",
+      "layout": "正文"
+    },
+    {
+      "frame": 170,
+      "image_sha256": "62ea89c9d32f775bc74376c10801444c2bc324ced4e5e3701c5d2dd02c02d8ee",
+      "layout": "正文"
+    },
+    {
+      "frame": 171,
+      "image_sha256": "4ef2c8efe693bd283d87413fb6a6f06312cecd23873f714b259bdb6e42eb321c",
+      "layout": "正文"
+    },
+    {
+      "frame": 172,
+      "image_sha256": "0f9822ad56d206ebfb54a59b44d2c031f902e806d0763aa28fd202e402615c29",
+      "layout": "正文"
+    },
+    {
+      "frame": 173,
+      "image_sha256": "dec34e48268f895aa824de193ccc77d01522eb86321b684ca439687885c8aab8",
+      "layout": "正文"
+    },
+    {
+      "frame": 174,
+      "image_sha256": "d9cf1ef017d88f648278ed58479d05903a258cf080dc7e45308084dbc11d4f91",
+      "layout": "正文"
+    },
+    {
+      "frame": 175,
+      "image_sha256": "412cc688118c2b41313f5e1fccde81c33fb578148b4a35c9707f27f0512c70da",
+      "layout": "正文"
+    },
+    {
+      "frame": 176,
+      "image_sha256": "2674954cbfde3e63a983c23d15c143d1abf920370b3febd7a06b667646a07a95",
+      "layout": "正文"
+    },
+    {
+      "frame": 177,
+      "image_sha256": "a27cb5df332dcd36fee9f99376b57ab84ba309a0816eecfbaca8700a528e7ea2",
+      "layout": "正文"
+    },
+    {
+      "frame": 178,
+      "image_sha256": "acaf23231eab558454ef2f5e47e8aaaa8521d782800bfc19d6baf47b10ed01de",
+      "layout": "正文"
+    },
+    {
+      "frame": 179,
+      "image_sha256": "277f6b32341a5845e9a1e1837816553dcabc4bbbd286a70a870a297e9225798c",
+      "layout": "正文"
+    },
+    {
+      "frame": 180,
+      "image_sha256": "789db3b1fe77c82fabbb1a1416732bc56f83aee34e1ee5e1304b2ee8054a23da",
+      "layout": "正文"
+    },
+    {
+      "frame": 181,
+      "image_sha256": "7a222c8ea0edceb1d213ef848bb6e12300f3ec1022878c21c670802834a6e36e",
+      "layout": "正文"
+    },
+    {
+      "frame": 182,
+      "image_sha256": "264fa4487265238bc07ad23d2c75e785a6be5cddc280f5282d2aa3c2e8273ef7",
+      "layout": "正文"
+    },
+    {
+      "frame": 183,
+      "image_sha256": "765b0b34065fd1fcdd597728357953b37e8f5affa6d9434f6bb3510fe047e9d1",
+      "layout": "正文"
+    },
+    {
+      "frame": 184,
+      "image_sha256": "5bd0b335b79395b1625d2320039357c9df6f8aee870b2d3d81884dcef9b78aaf",
+      "layout": "正文"
+    },
+    {
+      "frame": 185,
+      "image_sha256": "b12d8ac194e1435db18e58139036104e743c20448e8b63c6ffa28cbeba6c9345",
+      "layout": "正文"
+    },
+    {
+      "frame": 186,
+      "image_sha256": "fe7b93f397091d2d5471471c5636d16c7f46ed1ec952116ccd84ed24e1c314c5",
+      "layout": "正文"
+    },
+    {
+      "frame": 187,
+      "image_sha256": "ac798fcd83fb5f6932859e66a84c5421d42930aa5ca950922e35e724d3425808",
+      "layout": "正文"
+    },
+    {
+      "frame": 188,
+      "image_sha256": "1ca1e3cca29cded90c4a77b3f42294a72cc199171f41338104d5cfd889f86747",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 189,
+      "image_sha256": "1148013e0e940e57ac5997690f38a94b9a136f6556a97713b2ac4ba1e37d779f",
+      "layout": "帳務"
+    },
+    {
+      "frame": 190,
+      "image_sha256": "93c897e4895b8c0bcbb28a5893d80a50911750a057e451d39d04a784d88b5ab6",
+      "layout": "正文與帳務"
+    },
+    {
+      "frame": 191,
+      "image_sha256": "c091dde6fc46280f1d1439f423499ac40a4bbbbc10ec14f7e979ce522aa89bff",
+      "layout": "帳務"
+    },
+    {
+      "frame": 192,
+      "image_sha256": "bec2a8aa20312aa36e5c7f2f10372ca1b5499ac8262b5f2d0cf5766822afc242",
+      "layout": "空面"
+    },
+    {
+      "frame": 193,
+      "image_sha256": "91bb386dde4136be5e4da1732f3fbddef8257a6564e87dfcb3c27cbc925f23a5",
+      "layout": "後封內面"
+    },
+    {
+      "frame": 194,
+      "image_sha256": "9932b45191f6e756e5225ce919c837aff087408c253d0f462a721db1048888b0",
+      "layout": "後封外面"
+    },
+    {
+      "frame": 195,
+      "image_sha256": "ab8d444c4db9286ba7c66ea4f71a6915f2e28a539ce0ff2b99eb319f60b09970",
+      "layout": "書緣照"
+    },
+    {
+      "frame": 196,
+      "image_sha256": "33a4f7a1e4db5bebac86f86503e96eb1025dcbdf5fabfae579721b8552b9ea9d",
+      "layout": "書緣題字"
+    },
+    {
+      "frame": 197,
+      "image_sha256": "4386115f086b7b6b42b47753a9f78d757339296de30a165df1f13841052aa61f",
+      "layout": "書緣墨痕"
+    },
+    {
+      "frame": 198,
+      "image_sha256": "1f01d1d6967d7fd47b2b921405bde77eb32d5830690065e6a11ecfa0b1d50911",
+      "layout": "書脊線裝照"
+    },
+    {
+      "frame": 199,
+      "image_sha256": "9a4dafa43ce837af29cdacf7094864144822113ad3b63a753ec5a687fdebe7a0",
+      "layout": "色卡重攝"
+    }
+  ],
+  "changes": [
+    {
+      "frame": 5,
+      "unit": "f005-A-05",
+      "image_sha256": "338eb536d62eaa7508922652552d654bda821a197247591c18fb33d13b9c9744",
+      "image_bbox": [
+        3581,
+        770,
+        3831,
+        2739
+      ],
+      "reason": "兩個香的上撇及下部收筆接近，與同頁「宣木瓜」的瓜形有別。f199 色卡露出區亦可見同欄。",
+      "before": "川獨活　秦艽　廣木瓜　製〔字待核〕附",
+      "after": "川獨活　秦艽　廣木香　製香附",
+      "resolved_inline_markers": [
+        "〔字待核〕"
+      ],
+      "revised_uncertainty": []
+    },
+    {
+      "frame": 89,
+      "unit": "f089-A-02",
+      "image_sha256": "ed249a536ba3b3af9c31e0244a49b4aa887fc9674ed8493b235f1e78472fafa0",
+      "image_bbox": [
+        3869,
+        187,
+        4175,
+        1030
+      ],
+      "reason": "映的日旁及央字末捺可辨，末字有王旁及右側人形，下部密寫仍留珍候讀。",
+      "before": "劉映珍〔候讀〕",
+      "after": "劉映〔珍？〕",
+      "resolved_inline_markers": [
+        "〔候讀〕"
+      ],
+      "revised_uncertainty": [
+        {
+          "unit_id": "f089-A-02",
+          "offset_start": 2,
+          "offset_end": 6,
+          "recorded_reading": "〔珍？〕",
+          "resolution": "unresolved"
+        }
+      ]
+    }
+  ],
+  "cross_checks": [
+    {
+      "frames": [
+        1,
+        196
+      ],
+      "note": "f001 雙紅籤，立簿籤為光緒貳拾捌年二月十六日。f196 書緣獨有較早的紀年暫讀，尾段待辨。兩處分存。"
+    },
+    {
+      "frames": [
+        5,
+        199
+      ],
+      "note": "日期、案頭及藥欄均確認同頁。f199 為色卡重攝，不重複納入轉錄序。"
+    },
+    {
+      "frames": [
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "note": "段守邦與劉恒連日重複寫案頭，f032 劉峻德；f033 最右劉昭德，其餘三次劉峻德，按原稿保留寫法。"
+    },
+    {
+      "frames": [
+        42,
+        43,
+        44,
+        45,
+        46,
+        47
+      ],
+      "note": "f042 末兩欄尚有帳務。f043–046 無正向正文，f047 新正月初四日。"
+    },
+    {
+      "frames": [
+        71,
+        72
+      ],
+      "note": "照錄 f071「又五月初一日」。未據語義將又統一成閏。"
+    },
+    {
+      "frames": [
+        87,
+        88,
+        89
+      ],
+      "note": "f088 為 f087 的鏡向反透。f089 日題「新正十二日」，未補月字。"
+    },
+    {
+      "frames": [
+        124,
+        125,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140
+      ],
+      "note": "兩幅換頁的出藥與日期依原位排列。f136 為薄紙反透。f138–140 框帳單獨定位。"
+    },
+    {
+      "frames": [
+        170,
+        171,
+        174,
+        176,
+        182,
+        184,
+        185
+      ],
+      "note": "同名案頭重複起筆，沒有依姓名將欄併成單筆。半年後各月日期依原稿分記。"
+    },
+    {
+      "frames": [
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198
+      ],
+      "note": "f191 為帳記末幅。f192 有反透，f193–194 後封，f195–198 為書緣或書脊。"
+    }
+  ],
+  "unresolved": [
+    {
+      "frames": [
+        1,
+        196
+      ],
+      "note": "封面立簿年、書緣題年和各筆原有日期分存，未為所有案目統配西元。"
+    },
+    {
+      "frames": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199
+      ],
+      "note": "快速草書的帳碼、部分姓名與藥名、密排劑量未逐字定讀；JSON 各幅 uncertainty 另留已標的字、位置與原圖。"
+    },
+    {
+      "frames": [
+        5,
+        199
+      ],
+      "note": "f005-C-01 末字有甫、哥、尚等候讀，重攝有遮擋。"
+    },
+    {
+      "frames": [
+        186
+      ],
+      "note": "一小段僅留定位，連同其餘疑讀仍可回圖。"
+    }
+  ],
+  "review_counts": {
+    "scans": 199,
+    "source_linked_units": 4761,
+    "corrections": 2
+  },
+  "description": "全幅版面逐幅回圖及選定欄位覆看。"
+}

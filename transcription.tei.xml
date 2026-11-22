@@ -10,10 +10,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>0.1.0</edition>
+        <edition>0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>2026-11-22. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+        <p>2026-11-22. The review checks each scan’s layout and selected readings at folio boundaries, and adds 2 documented revisions and unresolved locations. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
       </publicationStmt>
       <sourceDesc>
         <p>Slg. Unschuld 8790 <ref target="https://resolver.staatsbibliothek-berlin.de/SBB0003530700000000">Source catalogue</ref>
@@ -57,7 +57,7 @@
           <ab type="case_heading" n="f005-A-02" xml:id="u-f005-A-02">增</ab>
           <ab type="dispensing" n="f005-A-03" xml:id="u-f005-A-03">己　〔字待核〕湯藥壹付</ab>
           <ab type="formula_column" n="f005-A-04" xml:id="u-f005-A-04">海風藤　當歸　桑寄生　川羌活</ab>
-          <ab type="formula_column" n="f005-A-05" xml:id="u-f005-A-05">川獨活　秦艽　廣木瓜　製〔字待核〕附</ab>
+          <ab type="formula_column" n="f005-A-05" xml:id="u-f005-A-05">川獨活　秦艽　廣木香　製香附</ab>
           <ab type="formula_column" n="f005-A-06" xml:id="u-f005-A-06">明天麻　川芎　桂心　炙甘草</ab>
           <ab type="formula_column" n="f005-A-07" xml:id="u-f005-A-07">明玉竹　生地　酒杭芍　威靈仙</ab>
           <ab type="formula_column" n="f005-A-08" xml:id="u-f005-A-08">何首烏　川牛夕　宣木瓜　甘枸杞</ab>
@@ -2440,7 +2440,7 @@
       <div n="89" type="scan" corresp="https://content.staatsbibliothek-berlin.de/dc/1858908833-0089/canvas">
         <div type="surface" n="whole">
           <ab type="date" n="f089-A-01" xml:id="u-f089-A-01">新正十二日</ab>
-          <ab type="case_heading" n="f089-A-02" xml:id="u-f089-A-02">劉映珍〔候讀〕</ab>
+          <ab type="case_heading" n="f089-A-02" xml:id="u-f089-A-02">劉映〔珍？〕</ab>
           <ab type="dispensing" n="f089-A-03" xml:id="u-f089-A-03">〔朱記及墨〕湯藥壹付</ab>
           <ab type="formula_column" n="f089-A-04" xml:id="u-f089-A-04">川楝子　北沙參　石菖蒲　酒知母　白通草　製香附</ab>
           <ab type="formula_column" n="f089-A-05" xml:id="u-f089-A-05">黑獨活　黑山梔　川玉金〔候讀〕　馬兜鈴　枇杷葉　焦山查</ab>

@@ -12,9 +12,9 @@ All 199 scans are indexed. Case headings, original dates, dispensing and prescri
 
 ## 文字與覆核 / Text and review
 
-AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。依原頁次及各組欄位提供 TXT、JSON 與 TEI，其中日期沿用原記法；「□」及疑讀保留，細量只收可辨處。
+逐幅核對原圖與欄序，覆看封籤、跨幅日期、朱記與書緣，附 2 筆訂正和待辨定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。依原頁次及各組欄位提供 TXT、JSON 與 TEI，其中日期沿用原記法；「□」及疑讀保留，細量只收可辨處。
 
-AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. TXT, JSON and TEI follow scan and column order. Dates use the manuscript’s notation. Unreadable and uncertain forms remain marked. Small quantities are only recorded where legible.
+The review checks each scan’s layout and selected readings at folio boundaries, and adds 2 documented revisions and unresolved locations. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed. TXT, JSON and TEI follow scan and column order. Dates use the manuscript’s notation. Unreadable and uncertain forms remain marked. Small quantities are only recorded where legible.
 
 TXT 依幅、面與欄提供閱讀定位。JSON 和 TEI 採同一固定取文。「□」標難辨字，缺幅或不確定缺字處由頁面說明及疑義資料標示。完整提示、私有覆核過程與專用程式未隨附。AI 實際模型路由與用量未知。
 
